@@ -1,4 +1,4 @@
-# Sentiment Analysis of Characters in *Treasure Island* (NLP Pipeline)
+# Understanding Heros and Villains in *Treasure Island* (NLP Pipeline)
 
 This project builds an end-to-end NLP pipeline to analyze **character sentiment** in Robert Louis Stevenson’s *Treasure Island* and infer narrative roles such as **Hero**, **Villain**, **Morally Complex**, and **Support/Neutral** using:
 
